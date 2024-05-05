@@ -1,0 +1,3 @@
+Código asignatura: 102030
+Nombre asignatura: Programacion
+Cantidad crédito asignatura: 500
